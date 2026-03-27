@@ -1,4 +1,4 @@
-GitHub Stats<!--
+<!--
 **utm-git/utm-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 To use this, create a new repository called `utm-git` and commit this file to its main branch!
 -->
