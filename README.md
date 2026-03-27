@@ -12,7 +12,7 @@ I'm a software engineer passionate about designing and building highly scalable,
 ## 🚀 What I'm currently working on
 
 - **[Planet-Scale Notification Platform](https://github.com/utm-git/planet-scale-notification-platform)**: Architecting a globally distributed, high-throughput notification platform with zero data loss and exactly-once delivery guarantees.
-- **[Distributed Systems Core](https://github.com/utm-git/distributed-systems-core)** & **[Operational Maturity Signals](https://github.com/utm-git/operational-maturity-signals)**: Implementing advanced operational maturity patterns, including chaos engineering and event sourcing.
+- **[Distributed Systems Core](https://github.com/utm-git/distributed-systems-core)** & **[Operational Management Signals](https://github.com/utm-git/operational-maturity-signals)**: Implementing advanced operational maturity patterns, including chaos engineering and event sourcing.
 - **[Financially Correct Systems](https://github.com/utm-git/financially-correct-systems)** & **[Payment Orchestration](https://github.com/utm-git/payment-orchestration-system)**: Exploring robust ledger designs, consistency models, and distributed system risks in payment platforms.
 - **[Terraform AWS 3-Tier Architecture Course](https://github.com/utm-git/terraform-aws-3tier-course)**: A comprehensive, progressive 15-module course on building production-grade AWS infrastructure using Terraform.
 - **[Low-Level System Designs](https://github.com/utm-git/low-level-system-designs)**: Designing and implementing object-oriented models for complex real-world applications.
