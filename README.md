@@ -1,4 +1,4 @@
-<!--
+GitHub Stats<!--
 **utm-git/utm-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 To use this, create a new repository called `utm-git` and commit this file to its main branch!
 -->
@@ -29,12 +29,6 @@ I'm a software engineer passionate about designing and building highly scalable,
 - Advanced patterns in event sourcing and distributed transactions (Sagas, 2PC/3PC).
 - Resilience engineering methodologies (Circuit breakers, bulkheads, backpressure, and chaos testing with Toxiproxy).
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utm-git&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Utkarsh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utm-git&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</div>
 
 ## 📫 Let's Connect
 
