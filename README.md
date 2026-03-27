@@ -5,7 +5,7 @@ To use this, create a new repository called `utm-git` and commit this file to it
 
 # Hi there, I'm Utkarsh Mehrotra 👋
 
-**Software Engineer @ Samsung Research** | Bangalore, India
+**Software Engineer @ Samsung Research** | Bengaluru, India
 
 I'm a software engineer passionate about designing and building highly scalable, distributed, and fault-tolerant backend systems. My expertise lies in Advanced System Design, Event-Driven Architectures, and Cloud-Native infrastructure.
 
