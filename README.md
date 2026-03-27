@@ -24,6 +24,17 @@ I'm a software engineer passionate about designing and building highly scalable,
 - **Cloud & Infrastructure:** AWS, Terraform, Docker, Kubernetes, GitHub Actions
 - **Databases & Messaging:** PostgreSQL, Redis, Kafka, Cassandra, ElasticSearch
 
+[![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=flat&logo=openjdk)](https://openjdk.org/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)](https://python.org/)
+[![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)](https://go.dev/)
+[![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform)](https://terraform.io/)
+[![Kafka](https://img.shields.io/badge/Kafka-Messaging-231F20?style=flat&logo=apachekafka)](https://kafka.apache.org/)
+[![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat&logo=docker)](https://docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat&logo=kubernetes)](https://kubernetes.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat&logo=postgresql)](https://postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat&logo=redis)](https://redis.io/)
+
 ## 🌱 Exploring & Deep-Diving Into
 
 - Advanced patterns in event sourcing and distributed transactions (Sagas, 2PC/3PC).
