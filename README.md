@@ -42,4 +42,4 @@ I'm a software engineer passionate about designing and building highly scalable,
 - **Portfolio:** [Check out my personal portfolio website](https://YOUR_CUSTOM_DOMAIN.com)
 
 ---
-*"Building robust systems for a fragile world."*
+*"Building robust systems for a fragile world."* 
