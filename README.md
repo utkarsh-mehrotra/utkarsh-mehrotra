@@ -38,8 +38,8 @@ I'm a software engineer passionate about designing and building highly scalable,
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- **Portfolio:** [Check out my personal portfolio website](https://YOUR_CUSTOM_DOMAIN.com)
+- **LinkedIn:** [linkedin.com/in/utkarshmehrotra-](https://linkedin.com/in/utkarshmehrotra-)
+- **Portfolio:** [Check out my personal portfolio website](https://utm-git.github.io/utkarshmehrotra/)
 
 ---
 *"Building robust systems for a fragile world."* 
