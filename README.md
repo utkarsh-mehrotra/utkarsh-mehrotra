@@ -44,7 +44,7 @@ I'm a software engineer passionate about designing and building highly scalable,
 ## 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/utkarshmehrotra-/](https://www.linkedin.com/in/utkarshmehrotra-/)
-- **Portfolio:** [utm-git.github.io/utkarshmehrotra/](https://utkarsh-mehrotra.github.io/)
+- **Portfolio:** [utkarsh-mehrotra.github.io/](https://utkarsh-mehrotra.github.io/)
 
 ---
 *"Building robust systems for a fragile world."* 
