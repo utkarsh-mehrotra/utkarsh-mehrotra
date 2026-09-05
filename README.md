@@ -6,6 +6,24 @@ To use this, create a new repository called `utm-git` and commit this file to it
 # Utkarsh Mehrotra 👋
 Backend/distributed systems engineer building the real-time decisioning and risk-scoring systems that ML models plug into.
 
+```bash
+$ whoami
+utkarsh-mehrotra — chief engineer @ samsung research, bengaluru
+
+$ cat /proc/current-focus
+real-time risk scoring · exactly-once pipelines · ml-serving infra
+
+$ uptime
+8y in prod systems · 100M+ events/day fraud pipeline (western union)
+
+$ ls ~/stack
+java/ kafka/ flink/ clickhouse/ redis/ neo4j/ spring-boot/
+
+$ tail -f ~/logs/status.log
+[INFO] shipping delinquency-detection pipeline, sub-second p99
+[INFO] side-project: self-evolving knowledge systems, multi-agent orchestration
+```
+
 I architect highly scalable, fault-tolerant backend platforms. At Samsung, I lead backend infrastructure for a lending platform across Southeast Asia and India, including delinquency-detection pipelines that score at-risk accounts in real time from repayment behavior signals. Previously built a 100M+ events/day fraud detection pipeline at Western Union. I bring distributed-systems rigor — consistency guarantees, exactly-once semantics, observability — to the infrastructure ML and risk models run on.
 
 ### 🚀 Current focus
