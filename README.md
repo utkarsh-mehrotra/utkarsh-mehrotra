@@ -8,13 +8,15 @@ Backend/distributed systems engineer building the real-time decisioning and risk
 
 ```bash
 $ whoami
-utkarsh-mehrotra — chief engineer @ samsung research, bengaluru
+utkarsh-mehrotra — backend engineer, samsung research bengaluru
 
 $ cat /proc/current-focus
 real-time risk scoring · exactly-once pipelines · ml-serving infra
 
-$ uptime
-8y in prod systems · 100M+ events/day fraud pipeline (western union)
+$ history | grep career
+samsung research   → backend infra for lending platform, risk scoring
+western union      → 100M+ events/day fraud detection pipeline
+cisco               → distributed backend systems, core infra, 5y
 
 $ ls ~/stack
 java/ kafka/ flink/ clickhouse/ redis/ neo4j/ spring-boot/
