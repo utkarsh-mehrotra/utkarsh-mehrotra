@@ -4,26 +4,27 @@ To use this, create a new repository called `utm-git` and commit this file to it
 -->
 
 # Utkarsh Mehrotra 👋
-Building systems at the **intersection of applied ML and distributed architectures**.
+Backend/distributed systems engineer building the real-time decisioning and risk-scoring systems that ML models plug into.
 
-I architect highly scalable, fault-tolerant backend platforms. At Samsung, I designed consistency-critical systems for lending at scale. Now exploring how distributed system principles apply to AI — autonomous agents, knowledge layers, and decision systems that require the same rigor as financial platforms.
+I architect highly scalable, fault-tolerant backend platforms. At Samsung, I lead backend infrastructure for a lending platform across Southeast Asia and India, including delinquency-detection pipelines that score at-risk accounts in real time from repayment behavior signals. Previously built a 100M+ events/day fraud detection pipeline at Western Union. I bring distributed-systems rigor — consistency guarantees, exactly-once semantics, observability — to the infrastructure ML and risk models run on.
 
 ### 🚀 Current focus
-- **ML-aware backend architectures**: Systems that serve autonomous agents with consistency guarantees, observability, and recovery patterns
-- **Self-evolving knowledge systems**: RAG pipelines, continuous learning, and context refinement with exactly-once semantics
-- **Agent orchestration & reliability**: Multi-agent coordination with the same rigor as distributed transactions
-- **Production ML infrastructure**: Feature pipelines, model serving, and inference orchestration built on proven distributed patterns
-- **Real-time AI-driven systems at scale**: High-throughput, low-latency decision engines where ML shapes system behavior — combining event streams, vector stores, and autonomous agents to handle planet-scale workloads with sub-100ms latencies and zero data loss
+- **Real-time risk & decisioning systems**: Behavioral-signal scoring pipelines that trigger automated decisions (collections, fraud flags) with sub-second latency
+- **ML-integrated backend architectures**: Feature pipelines and serving infrastructure with the same consistency and recovery guarantees as financial transactions
+- **Applied ML foundations**: Certified in Applied Machine Learning and Advanced NLP, building on a distributed-systems background
+- **Production data infrastructure for ML**: Event streaming (Kafka, Flink, Spark Streaming) and graph systems (Neo4j, Amazon Neptune) as the substrate for scoring and recommendation workloads
 
 ### 💡 What I've built
-Globally distributed notification platforms, payment orchestration systems, event sourcing architectures, operational maturity patterns (chaos engineering, distributed tracing) — now applying these to AI systems
+Real-time delinquency/risk scoring pipelines, a 100M+ events/day fraud detection pipeline (Kafka, Spark Streaming, Flink), payment reconciliation and orchestration systems with exactly-once semantics, graph-based order visibility (Neo4j → Amazon Neptune), and full observability stacks (ELK, Prometheus, Grafana) — the operational backbone that ML-driven decisions run on.
 
 ### 🛠️ Stack
-**Languages**: Java, Python, JavaScript/TypeScript | **Expertise**: Distributed systems, Event-driven architecture, Microservices, Consensus algorithms, AWS/Terraform, Kafka, PostgreSQL, Redis
+**Languages**: Java, Python, JavaScript/TypeScript | **AI/ML**: Applied ML, NLP, real-time scoring & feature pipelines | **Systems**: Distributed systems, event-driven architecture, microservices, consensus algorithms, Kafka, Spark/Flink | **Infra**: AWS, Terraform, PostgreSQL, Redis, Neo4j/Neptune
 
 [![Java](https://img.shields.io/badge/Java-21+-ED8B00?style=flat&logo=openjdk)](https://openjdk.org/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)](https://python.org/)
 [![Go](https://img.shields.io/badge/Go-1.23+-00ADD8?style=flat&logo=go)](https://go.dev/)
+[![Applied ML](https://img.shields.io/badge/Applied-Machine_Learning-FF6F00?style=flat)](https://utkarsh-mehrotra.github.io/)
+[![NLP](https://img.shields.io/badge/Advanced-NLP-4B32C3?style=flat)](https://utkarsh-mehrotra.github.io/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat&logo=amazonaws)](https://aws.amazon.com/)
 [![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat&logo=terraform)](https://terraform.io/)
 [![Kafka](https://img.shields.io/badge/Kafka-Messaging-231F20?style=flat&logo=apachekafka)](https://kafka.apache.org/)
